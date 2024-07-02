@@ -1,8 +1,8 @@
-# React + Vite
+React Shopping Cart App
+This project is a basic e-commerce shopping cart application built using React. It allows users to add and delete items from their cart and apply a 10% discount using a coupon code.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Product listing page displaying available items
+Add items to the shopping cart
+View, update quantity, and remove items from the cart
+Apply a 10% discount with a coupon code
