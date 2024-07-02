@@ -1,5 +1,6 @@
 React Shopping Cart App
-This project is a basic e-commerce shopping cart application built using React. It allows users to add and delete items from their cart and apply a 10% discount using a coupon code.
+This project is a basic e-commerce shopping cart application built using React.
+It allows users to add and delete items from their cart and apply a 10% discount using a coupon code.
 
 Features
 Product listing page displaying available items
